@@ -1,5 +1,4 @@
 FROM ubuntu:15.04
-MAINTAINER Marek Obuchowicz <marek@korekontrol.eu>
 
 # Setup python and java and base system
 ENV DEBIAN_FRONTEND noninteractive
