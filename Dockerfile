@@ -1,4 +1,4 @@
-FROM ubuntu:15.04
+FROM ubuntu:20.04
 
 # Setup python and java and base system
 ENV DEBIAN_FRONTEND noninteractive
